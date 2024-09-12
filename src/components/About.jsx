@@ -5,7 +5,7 @@ const About = () => (
     <div className="container mx-auto flex flex-col md:flex-row items-center px-4 space-y-6 md:space-y-0 md:space-x-8">
       <div className="md:w-1/3 flex justify-center mb-5 md:mb-0">
         <img 
-          src="./src/image/Aryan.jpg" 
+          src="/image/Aryan.jpg" 
           alt="Your Name" 
           className="rounded-full w-40 h-40 md:w-48 md:h-48 object-cover"
         />
