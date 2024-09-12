@@ -6,7 +6,7 @@ import About from './components/About';
 
 const projects = [
   {
-    image: './src/image/project1.jpeg',
+    image: './public/image/project1.jpeg',
     title: 'Online Learning Platform',
     description: 'A web application that provides a platform for instructors to create and manage courses, while students can enroll, access learning materials, and track their progress. Features include user authentication, course creation tools, payment integration, and a responsive design.',
     link: '#'
